@@ -1,5 +1,4 @@
 //Prajwal Rana
-//1001531196
 //submission date: 10/13/2020
 
 1.	var inputtable = [1,2,3,4,5,6,7,8,9,10];
